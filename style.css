@@ -1,0 +1,21 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+width:100%
+}
+.heading h4{
+    color: black;
+}
+h4
+{
+    font-style: bold;
+}
+input{
+    width:15%;
+    height: 25px;
+    border-radius:5px;
+}
